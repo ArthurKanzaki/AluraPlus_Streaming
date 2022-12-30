@@ -170,7 +170,7 @@ body{
 @media screen and (max-width: 786px){
     .container{
         display: block;
-        background: 70vw;
+        background-size: 70vw;
     }
 
     .container__imagem{
